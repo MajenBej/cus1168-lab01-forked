@@ -11,7 +11,8 @@ public class StudentStreamLab {
                 new Student("Bob", 3.8, "Senior"),
                 new Student("Charlie", 2.9, "Sophomore"),
                 new Student("David", 3.1, "Freshman"),
-                new Student("Eve", 3.9, "Junior")
+                new Student("Eve", 3.9, "Junior"),
+                new Student("Shawn", 3.45, "Sophomore")
         );
 
         // TODO - Filtering: Students with GPA > 3.0
